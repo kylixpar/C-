@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "T1806E_CSharp", "T1806E_CSharp\T1806E_CSharp.shproj", "{55B24343-78FE-431B-A428-F53B63223A58}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		T1806E_CSharp\T1806E_CSharp.projitems*{55b24343-78fe-431b-a428-f53b63223a58}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F123EA4-6F3A-4E75-AFF8-13D6E055DC4D}
+	EndGlobalSection
+EndGlobal
